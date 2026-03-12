@@ -15,6 +15,10 @@
 🚀 Constantly learning and improving my skills  
 
 ---
+## 🎧 Currently Vibing To
+
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=7li233ibeom4zrlr8u2l2ywpq&cover_image=true&theme=novatorem&background_color=0d1117&border_color=ff79c6)](https://github.com/kittinan/spotify-github-profile)
+---
 
 # 🎀 Tech Stack
 
@@ -76,16 +80,21 @@
 
 ---
 
-# 🏆 GitHub Achievements
+## 📈 GitHub Activity
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Himasha44&theme=dracula&no-frame=true&row=1&column=6"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Himasha44&bg_color=0d1117&color=ff79c6&line=bd93f9&point=ffffff&area=true&hide_border=true"/>
 </p>
 
 ---
 
+## 👀 Profile Visitors
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Himasha44&label=Profile%20Views&color=ff69b4&style=flat"/>
+</p>
+
+---
 # 🌷 Connect With Me
 
 <p align="center">
