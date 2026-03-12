@@ -19,10 +19,10 @@
 ## 🎧 Currently Vibing To
 
 <p align="center">
-<img src="https://spotify-now-playing-git-main-kittinanx.vercel.app/api/spotify"/>
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=7li233ibeom4zrlr8u2l2ywpq&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=7li233ibeom4zrlr8u2l2ywpq&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false&bar_color=cf1760&bar_color_cover=false">
+  </a>
 </p>
-
----
 
 # 🎀 Tech Stack
 
