@@ -15,9 +15,13 @@
 🚀 Constantly learning and improving my skills  
 
 ---
+
 ## 🎧 Currently Vibing To
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=7li233ibeom4zrlr8u2l2ywpq&cover_image=true&theme=novatorem&background_color=0d1117&border_color=ff79c6)](https://github.com/kittinan/spotify-github-profile)
+<p align="center">
+<img src="https://spotify-now-playing-git-main-kittinanx.vercel.app/api/spotify"/>
+</p>
+
 ---
 
 # 🎀 Tech Stack
