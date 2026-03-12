@@ -20,11 +20,11 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=2800&pause=800&color=FF69B4&center=true&vCenter=true&width=650&lines=Designing+with+creativity+%F0%9F%8C%B8;Building+with+logic+%F0%9F%92%BB;Growing+with+every+project+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="320" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" />
+  <i>Turning ideas into soft, beautiful, functional experiences 💜</i>
 </p>
 
 ---
