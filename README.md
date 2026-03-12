@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=200&section=header&text=Nethmi%20Himasha&fontSize=50&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,25&height=200&section=header&text=Nethmi%20Himasha&fontSize=50&fontColor=ffffff"/>
 </p>
 <h1 align="center">Hi there, I'm Nethmi 💜</h1>
 <h3 align="center">Software Engineering Student | Creative Builder | Future Full-Stack Developer ✨</h3>
