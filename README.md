@@ -83,9 +83,8 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/Himasha44/Himasha44/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
-
 ---
 
 ## 🎀 Connect With Me
