@@ -20,11 +20,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="320" />
-</p>
-
-<p align="center">
-  <i>Turning ideas into soft, beautiful, functional experiences 💜</i>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=600&lines=Creative+Mind+%E2%9C%A8;Building+beautiful+projects+%F0%9F%92%9C;Code+Design+and+Dreams+%F0%9F%8C%B8" alt="Typing SVG" />
 </p>
 
 ---
