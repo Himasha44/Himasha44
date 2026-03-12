@@ -1,9 +1,8 @@
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,25&height=250&section=header&text=Nethmi%20Himasha&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
-</p>
+<h1 align="center">Hi there, I'm Nethmi 💜</h1>
+<h3 align="center">Software Engineering Student | Creative Builder | Future Full-Stack Developer ✨</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Software+Engineering+Student+💜;Creative+Developer+✨;Building+Beautiful+Projects+🌸;Future+Full+Stack+Developer+💻"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=E754C4&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+profile!;Building+beautiful+and+useful+projects+%F0%9F%92%BB;Learning+something+new+every+day+%F0%9F%8C%B8;Pink+.+Purple+.+Code+.+Creativity+%F0%9F%92%9C" alt="Typing SVG" />
 </p>
 
 ---
