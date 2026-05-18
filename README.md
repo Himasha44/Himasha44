@@ -15,15 +15,6 @@
 🚀 Constantly learning and improving my skills  
 
 ---
-
-## 🎧 Currently Vibing To
-
-<p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=7li233ibeom4zrlr8u2l2ywpq&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=7li233ibeom4zrlr8u2l2ywpq&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false&bar_color=cf1760&bar_color_cover=false">
-  </a>
-</p>
-
 # 🎀 Tech Stack
 
 <p align="center">
@@ -81,22 +72,15 @@
 
 ---
 
-## 👀 Profile Visitors
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Himasha44&label=Profile%20Views&color=ff69b4&style=flat"/>
-</p>
-
----
 # 🌷 Connect With Me
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="[YOUR_LINKEDIN_URL]https://www.linkedin.com/in/nethmi-himasha-538595261/)">
 <img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:nethmihimasha44@gmail.com">
 <img src="https://img.shields.io/badge/Email-c084fc?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
