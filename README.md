@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Nethmi 💜</h1>
-<h3 align="center">Software Engineering Student | Creative Builder | Future Full-Stack Developer ✨</h3>
+<h3 align="center">Software Engineering Student | Creative Builder | UI UX Entusiatist ✨</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=E754C4&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+profile!;Building+beautiful+and+useful+projects+%F0%9F%92%BB;Learning+something+new+every+day+%F0%9F%8C%B8;Pink+.+Purple+.+Code+.+Creativity+%F0%9F%92%9C" alt="Typing SVG" />
@@ -52,17 +52,6 @@
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Himasha44&show_icons=true&theme=tokyonight&hide_border=true&title_color=ff79c6&icon_color=bd93f9&text_color=f8f8f2&bg_color=0d1117" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himasha44&layout=compact&theme=tokyonight&hide_border=true&title_color=ff79c6&text_color=f8f8f2&bg_color=0d1117" height="180"/>
-
-</p>
-
----
 
 # 🔥 GitHub Streak
 
